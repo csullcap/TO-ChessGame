@@ -1,0 +1,6 @@
+# ninja log v5
+6	192	6242653013982808	TO-ChessGame_autogen/timestamp	111e5efd6dc2d083
+192	1365	6242653025716966	CMakeFiles/TO-ChessGame.dir/TO-ChessGame_autogen/mocs_compilation.cpp.obj	c0cdb7bdded1ed5e
+1732	3389	6242408964965547	CMakeFiles/TO-ChessGame.dir/main.cpp.obj	44e6c140e1b5cf34
+199	1735	6242653029405751	CMakeFiles/TO-ChessGame.dir/mainwindow.cpp.obj	9b238b055d82411f
+1736	1931	6242653031328286	TO-ChessGame.exe	82e20e94628b5dde

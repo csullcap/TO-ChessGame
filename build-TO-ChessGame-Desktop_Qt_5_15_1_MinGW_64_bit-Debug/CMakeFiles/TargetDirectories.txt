@@ -1,0 +1,4 @@
+C:/Users/user/Documents/2020-b/TO/build-TO-ChessGame-Desktop_Qt_5_15_1_MinGW_64_bit-Debug/CMakeFiles/TO-ChessGame.dir
+C:/Users/user/Documents/2020-b/TO/build-TO-ChessGame-Desktop_Qt_5_15_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/2020-b/TO/build-TO-ChessGame-Desktop_Qt_5_15_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Documents/2020-b/TO/build-TO-ChessGame-Desktop_Qt_5_15_1_MinGW_64_bit-Debug/CMakeFiles/TO-ChessGame_autogen.dir

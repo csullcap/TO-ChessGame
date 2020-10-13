@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TO-ChessGame",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TO-ChessGame::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TO-ChessGame-Debug-db16ff0faf57066ac8cc.json",
+					"name" : "TO-ChessGame",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TO-ChessGame_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TO-ChessGame_autogen-Debug-150355d736c80e86275a.json",
+					"name" : "TO-ChessGame_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/user/Documents/2020-b/TO/build-TO-ChessGame-Desktop_Qt_5_15_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/user/Documents/2020-b/TO/TO-ChessGame"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
